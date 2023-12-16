@@ -1,4 +1,6 @@
 # COSC6377-Computer-Networking
 ## Dr. Omprakash Gnawali
 
-### Fall 2023
+### Graduate Computer Networking course for Fall 2023 course
+
+Group -> Ashutosh Kumar & Arti Patel
