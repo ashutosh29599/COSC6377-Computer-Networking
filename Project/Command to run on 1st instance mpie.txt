@@ -1,0 +1,6 @@
+Command to run on 1st instance: mpiexec -np 2 -hosts 172.31.41.210,172.31.36.241 ./hello
+
+Command to run on 2nd instance: mpiexec -np 2 -hosts 172.31.36.241,172.31.41.210 ./hello3
+
+
+Command to run: mpiexec -np 16 --hostfile hostfile ./hello

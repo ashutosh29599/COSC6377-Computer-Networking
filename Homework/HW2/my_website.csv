@@ -1,0 +1,59 @@
+timestamp,website,status_code,latency,poll_time
+2023-11-11 20:32:30.371340,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,590.93,0
+2023-11-11 20:32:40.740159,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,355.301,10
+2023-11-11 20:32:51.157188,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,406.893,20
+2023-11-11 20:33:01.410360,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,249.729,30
+2023-11-11 20:33:11.742407,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,327.134,40
+2023-11-11 20:33:22.145811,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,395.86,50
+2023-11-11 20:33:32.343030,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,192.306,60
+2023-11-11 20:33:42.707341,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,357.648,70
+timestamp,website,status_code,latency,poll_time
+2023-11-11 20:33:57.238799,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,225.909,0
+2023-11-11 20:34:07.940426,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,699.095,10
+2023-11-11 20:34:18.300433,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,358.121,20
+2023-11-11 20:34:28.737536,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,434.238,30
+2023-11-11 20:34:38.965846,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,225.596,40
+timestamp,website,status_code,latency,poll_time
+2023-11-11 20:37:34.973411,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,222.881,0
+2023-11-11 20:37:45.196607,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,217.352,10
+2023-11-11 20:37:56.935325,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,502,342.311,20
+2023-11-11 20:38:08.300524,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,502,244.292,30
+2023-11-11 20:38:18.525066,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,218.63,40
+2023-11-11 20:38:28.735276,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,204.107,50
+2023-11-11 20:38:38.945831,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,208.604,60
+2023-11-11 20:38:49.168317,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,214.19,70
+2023-11-11 20:38:59.379300,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,200.831,80
+2023-11-11 20:39:09.585580,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,199.88,90
+2023-11-11 20:39:19.787113,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,197.989,100
+2023-11-11 20:39:30.002497,https://4a48-2600-1700-f2f1-37e0-c99e-e7f6-a9ea-a181.ngrok-free.app,200,207.068,110
+timestamp,website,status_code,latency,poll_time
+2023-11-11 21:10:37.075849,https://www.apple.com/,200,444.547,0
+2023-11-11 21:10:47.350836,https://www.apple.com/,200,270.573,10
+2023-11-11 21:10:57.815498,https://www.apple.com/,200,458.642,20
+2023-11-11 21:11:08.327580,https://www.apple.com/,200,505.392,30
+timestamp,website,status_code,latency,poll_time
+2023-11-11 21:11:28.006585,https://www.apple.com/,200,193.861,0
+2023-11-11 21:11:38.156554,https://www.apple.com/,200,143.942,10
+2023-11-11 21:11:48.318132,https://www.apple.com/,200,153.298,20
+timestamp,website,status_code,latency,poll_time
+2023-11-11 21:12:30.579989,https://www.apple.com/,200,218.309,0
+2023-11-11 21:12:40.775011,https://www.apple.com/,200,189.471,10
+2023-11-11 21:12:50.939941,https://www.apple.com/,200,158.814,20
+2023-11-11 21:13:01.082107,https://www.apple.com/,200,138.822,30
+timestamp,website,status_code,latency,poll_time
+2023-11-11 21:13:13.467827,https://www.apple.com/,200,583.692,0
+2023-11-11 21:13:23.600440,https://www.apple.com/,200,125.551,10
+2023-11-11 21:13:33.794973,https://www.apple.com/,200,160.379,20
+2023-11-11 21:13:43.925153,https://www.apple.com/,200,123.578,30
+2023-11-11 21:13:54.114202,https://www.apple.com/,200,183.66,40
+2023-11-11 21:14:04.288129,https://www.apple.com/,200,167.41,50
+2023-11-11 21:14:14.465854,https://www.apple.com/,200,173.1,60
+2023-11-11 21:14:24.580533,https://www.apple.com/,200,112.217,70
+2023-11-11 21:14:34.781577,https://www.apple.com/,200,200.023,80
+2023-11-11 21:14:44.930314,https://www.apple.com/,200,141.982,90
+2023-11-11 21:14:55.103515,https://www.apple.com/,200,169.071,100
+2023-11-11 21:15:05.282517,https://www.apple.com/,200,173.39,110
+2023-11-11 21:15:15.519959,https://www.apple.com/,200,232.097,120
+2023-11-11 21:15:25.644462,https://www.apple.com/,200,118.538,130
+2023-11-11 21:15:35.779376,https://www.apple.com/,200,131.904,140
+2023-11-11 21:15:45.901589,https://www.apple.com/,200,116.788,150

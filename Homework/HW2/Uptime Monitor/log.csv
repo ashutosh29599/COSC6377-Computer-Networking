@@ -1,0 +1,25 @@
+timestamp,website,status_code,latency,poll_time
+2023-11-13 19:00:32.901603,https://www.apple.com/,200,221.687,0
+2023-11-13 19:00:43.014861,https://www.apple.com/,200,107.622,10
+2023-11-13 19:00:53.160078,https://www.apple.com/,200,137.583,20
+timestamp,website,status_code,latency,poll_time
+2023-11-13 19:01:04.437307,https://www.apple.com/,200,155.57,0
+2023-11-13 19:01:14.560402,https://www.apple.com/,200,128.782,10
+timestamp,website,status_code,latency,poll_time
+2023-11-13 19:01:59.162198,https://www.apple.com/,200,153.008,0
+2023-11-13 19:02:09.323668,https://www.apple.com/,200,156.098,10
+2023-11-13 19:02:19.557748,https://www.apple.com/,200,227.755,20
+timestamp,website,status_code,latency,poll_time
+2023-11-13 19:02:31.120181,https://www.apple.com/,200,124.162,0
+2023-11-13 19:02:41.264328,https://www.apple.com/,200,138.606,10
+timestamp,website,status_code,latency,poll_time
+2023-11-13 19:03:35.990661,https://www.apple.com/,200,222.047,0
+2023-11-13 19:03:46.272739,https://www.apple.com/,200,276.812,10
+2023-11-13 19:03:56.437975,https://www.apple.com/,200,159.419,20
+2023-11-13 19:04:10.917003,https://www.apple.com/,200,4472.558,30
+2023-11-13 19:04:24.045450,https://www.apple.com/,200,3122.002,40
+2023-11-13 19:04:34.504856,https://www.apple.com/,200,453.048,50
+2023-11-13 19:04:45.251316,https://www.apple.com/,200,740.039,60
+2023-11-13 19:04:55.520655,https://www.apple.com/,200,263.678,70
+timestamp,website,status_code,latency,poll_time
+2023-11-13 19:05:10.921355,https://www.apple.com/,200,228.332,0

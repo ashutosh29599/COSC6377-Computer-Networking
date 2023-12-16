@@ -1,0 +1,36 @@
+https://www2.cs.uh.edu/~gnawali/courses/cosc6377-f23/se1.txt
+
+1) We are using EWMA to estimate TCP RTT. We have a bug in the EWMA code
+that reduces the current sample by 10%. If we use an alpha of 0.3,
+what are the estimates at each timestep? Please use the RTT sample
+from this following ping transcript:
+
+PING www.uh.edu (129.7.97.54) 56(84) bytes of data.
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=1 ttl=237 time=20 ms
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=2 ttl=237 time=24 ms
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=3 ttl=237 time=22 ms
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=4 ttl=237 time=24 ms
+64 bytes from www.uh.edu (129.7.97.54): icmp_seq=5 ttl=237 time=23 ms
+
+2) Calculate the change in effective TCP throughput if fast
+retransmit/recovery is triggered after six packets as opposed to three
+packets.
+
+3) ATT does not want to route packets for Comcast customers but wants to
+route packets to/from servers in Comcast network. Why would ATT want
+this? How will ATT implement such an outcome? What will likely not
+work robustly when trying to create such an outcome?
+
+4) Packet header is 20 bytes long. We want to use stop and wait protocol
+with a window size of one with retry until the packet is
+acknowledged. The link packet drop rate is 50% in both directions. The
+latency is 100ms. We need to send 1 MB of data. How long is it likely
+to take?
+
+5) If a link metric used in a distance vector routing protocol is
+jittered 25% due to a bug in the link quality estimation, what is the
+impact on the route identification and stability. E.g., if the true
+link latency is 100ms, then the bug will add an error in the range
+(-25%,25%) of the true value (100ms) to the true link latency
+resulting in the latency in the range of (75,125) ms. Will the answer
+be different for link state routing?

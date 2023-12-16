@@ -1,0 +1,1 @@
+https://unix.stackexchange.com/questions/216203/how-can-i-make-a-bash-script-that-determines-if-a-program-is-already-running
